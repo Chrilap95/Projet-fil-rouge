@@ -1,0 +1,490 @@
+Position,Team,Games Played,Win,Draw,Loss,Goals For,Goals Against,Goal Difference,Points,Year,Team_Harmonized,Host
+1,Uruguay,4,4,0,0,15,3,12,8,1930,Uruguay,True
+2,Argentina,5,4,0,1,18,9,9,8,1930,Argentina,False
+3,United States,3,2,0,1,7,6,1,4,1930,United States,False
+4,Yugoslavia,3,2,0,1,7,7,0,4,1930,Serbia,False
+5,Chile,3,2,0,1,5,3,2,4,1930,Chile,False
+6,Brazil,2,1,0,1,5,2,3,2,1930,Brazil,False
+7,France,3,1,0,2,4,3,1,2,1930,France,False
+8,Romania,2,1,0,1,3,5,-2,2,1930,Romania,False
+9,Paraguay,2,1,0,1,1,3,-2,2,1930,Paraguay,False
+10,Peru,2,0,0,2,1,4,-3,0,1930,Peru,False
+11,Belgium,2,0,0,2,0,4,-4,0,1930,Belgium,False
+12,Bolivia,2,0,0,2,0,8,-8,0,1930,Bolivia,False
+13,Mexico,3,0,0,3,4,13,-9,0,1930,Mexico,False
+1,Italy,4,3,1,0,11,3,8,7,1934,Italy,True
+2,Czechoslovakia,4,3,0,1,9,6,3,6,1934,Czech Republic,False
+3,Germany,4,3,0,1,11,8,3,6,1934,Germany,False
+4,Austria,4,2,0,2,7,7,0,4,1934,Austria,False
+5,Spain,2,1,1,0,4,2,2,3,1934,Spain,False
+6,Hungary,2,1,0,1,5,4,1,2,1934,Hungary,False
+7,Switzerland,2,1,0,1,5,5,0,2,1934,Switzerland,False
+8,Sweden,2,1,0,1,4,4,0,2,1934,Sweden,False
+9,Argentina,1,0,0,1,2,3,-1,0,1934,Argentina,False
+9,France,1,0,0,1,2,3,-1,0,1934,France,False
+9,Netherlands,1,0,0,1,2,3,-1,0,1934,Netherlands,False
+12,Romania,1,0,0,1,1,2,-1,0,1934,Romania,False
+13,Egypt,1,0,0,1,2,4,-2,0,1934,Egypt,False
+14,Brazil,1,0,0,1,1,3,-2,0,1934,Brazil,False
+15,Belgium,1,0,0,1,2,5,-3,0,1934,Belgium,False
+16,United States,1,0,0,1,1,7,-6,0,1934,United States,False
+1,Italy,4,4,0,0,11,5,6,8,1938,Italy,False
+2,Hungary,4,3,0,1,15,5,10,6,1938,Hungary,False
+3,Brazil,5,3,1,1,14,11,3,7,1938,Brazil,False
+4,Sweden,3,1,0,2,11,9,2,2,1938,Sweden,False
+5,Czechoslovakia,3,1,1,1,5,3,2,3,1938,Czech Republic,False
+6,Switzerland,3,1,1,1,5,5,0,3,1938,Switzerland,False
+7,Cuba,3,1,1,1,5,12,-7,3,1938,Cuba,False
+8,France,2,1,0,1,4,4,0,2,1938,France,True
+9,Romania,2,0,1,1,4,5,-1,1,1938,Romania,False
+10,Germany,2,0,1,1,3,5,-2,1,1938,Germany,False
+11,Poland,1,0,0,1,5,6,-1,0,1938,Poland,False
+12,Norway,1,0,0,1,1,2,-1,0,1938,Norway,False
+13,Belgium,1,0,0,1,1,3,-2,0,1938,Belgium,False
+14,Netherlands,1,0,0,1,0,3,-3,0,1938,Netherlands,False
+15,Dutch East Indies,1,0,0,1,0,6,-6,0,1938,Indonesia,False
+1,Uruguay,4,3,1,0,15,5,10,7,1950,Uruguay,False
+2,Brazil,6,4,1,1,22,6,16,9,1950,Brazil,True
+3,Sweden,5,2,1,2,11,15,-4,5,1950,Sweden,False
+4,Spain,6,3,1,2,10,12,-2,7,1950,Spain,False
+5,Yugoslavia,3,2,0,1,7,3,4,4,1950,Serbia,False
+6,Switzerland,3,1,1,1,4,6,-2,3,1950,Switzerland,False
+7,Italy,2,1,0,1,4,3,1,2,1950,Italy,False
+8,England,3,1,0,2,2,2,0,2,1950,England,False
+9,Chile,3,1,0,2,5,6,-1,2,1950,Chile,False
+10,United States,3,1,0,2,4,8,-4,2,1950,United States,False
+11,Paraguay,2,0,1,1,2,4,-2,1,1950,Paraguay,False
+12,Mexico,3,0,0,3,2,10,-8,0,1950,Mexico,False
+13,Bolivia,1,0,0,1,0,8,-8,0,1950,Bolivia,False
+1,West Germany,6,5,0,1,25,14,11,10,1954,Germany,False
+2,Hungary,5,4,0,1,27,10,17,8,1954,Hungary,False
+3,Austria,5,4,0,1,17,12,5,8,1954,Austria,False
+4,Uruguay,5,3,0,2,16,9,7,6,1954,Uruguay,False
+5,Switzerland,4,2,0,2,11,11,0,4,1954,Switzerland,True
+6,Brazil,3,1,1,1,8,5,3,3,1954,Brazil,False
+7,England,3,1,1,1,8,8,0,3,1954,England,False
+8,Yugoslavia,3,1,1,1,2,3,-1,3,1954,Serbia,False
+9,Turkey,3,1,0,2,10,11,-1,2,1954,Turkey,False
+10,Italy,3,1,0,2,6,7,-1,2,1954,Italy,False
+11,France,2,1,0,1,3,3,0,2,1954,France,False
+12,Belgium,2,0,1,1,5,8,-3,1,1954,Belgium,False
+13,Mexico,2,0,0,2,2,8,-6,0,1954,Mexico,False
+14,Czechoslovakia,2,0,0,2,0,7,-7,0,1954,Czech Republic,False
+15,Scotland,2,0,0,2,0,8,-8,0,1954,Scotland,False
+16,South Korea,2,0,0,2,0,16,-16,0,1954,South Korea,False
+1,Brazil,6,5,1,0,16,4,12,11,1958,Brazil,False
+2,Sweden,6,4,1,1,12,7,5,9,1958,Sweden,True
+3,France,6,4,0,2,23,15,8,8,1958,France,False
+4,West Germany,6,2,2,2,12,14,-2,6,1958,Germany,False
+5,Wales,5,1,3,1,4,4,0,5,1958,Wales,False
+6,Soviet Union,5,2,1,2,5,6,-1,5,1958,Russia,False
+7,Northern Ireland,5,2,1,2,6,10,-4,5,1958,Northern Ireland,False
+8,Yugoslavia,4,1,2,1,7,7,0,4,1958,Serbia,False
+9,Czechoslovakia,4,1,1,2,9,6,3,3,1958,Czech Republic,False
+10,Hungary,4,1,1,2,7,5,2,3,1958,Hungary,False
+11,England,4,0,3,1,4,5,-1,3,1958,England,False
+12,Paraguay,3,1,1,1,9,12,-3,3,1958,Paraguay,False
+13,Argentina,3,1,0,2,5,10,-5,2,1958,Argentina,False
+14,Scotland,3,0,1,2,4,6,-2,1,1958,Scotland,False
+15,Austria,3,0,1,2,2,7,-5,1,1958,Austria,False
+16,Mexico,3,0,1,2,1,8,-7,1,1958,Mexico,False
+1,Brazil,6,5,1,0,14,5,9,11,1962,Brazil,False
+2,Czechoslovakia,6,3,1,2,7,7,0,7,1962,Czech Republic,False
+3,Chile,6,4,0,2,10,8,2,8,1962,Chile,True
+4,Yugoslavia,6,3,0,3,10,7,3,6,1962,Serbia,False
+5,Hungary,4,2,1,1,8,3,5,5,1962,Hungary,False
+6,Soviet Union,4,2,1,1,9,7,2,5,1962,Russia,False
+7,West Germany,4,2,1,1,4,2,2,5,1962,Germany,False
+8,England,4,1,1,2,5,6,-1,3,1962,England,False
+9,Italy,3,1,1,1,3,2,1,3,1962,Italy,False
+10,Argentina,3,1,1,1,2,3,-1,3,1962,Argentina,False
+11,Mexico,3,1,0,2,3,4,-1,2,1962,Mexico,False
+12,Spain,3,1,0,2,2,3,-1,2,1962,Spain,False
+13,Uruguay,3,1,0,2,4,6,-2,2,1962,Uruguay,False
+14,Colombia,3,0,1,2,5,11,-6,1,1962,Colombia,False
+15,Bulgaria,3,0,1,2,1,7,-6,1,1962,Bulgaria,False
+16,Switzerland,3,0,0,3,2,8,-6,0,1962,Switzerland,False
+1,England,6,5,1,0,11,3,8,11,1966,England,True
+2,West Germany,6,4,1,1,15,6,9,9,1966,Germany,False
+3,Portugal,6,5,0,1,17,8,9,10,1966,Portugal,False
+4,Soviet Union,6,4,0,2,10,6,4,8,1966,Russia,False
+5,Argentina,4,2,1,1,4,2,2,5,1966,Argentina,False
+6,Hungary,4,2,0,2,8,7,1,4,1966,Hungary,False
+7,Uruguay,4,1,2,1,2,5,-3,4,1966,Uruguay,False
+8,North Korea,4,1,1,2,5,9,-4,3,1966,North Korea,False
+9,Italy,3,1,0,2,2,2,0,2,1966,Italy,False
+10,Spain,3,1,0,2,4,5,-1,2,1966,Spain,False
+11,Brazil,3,1,0,2,4,6,-2,2,1966,Brazil,False
+12,Mexico,3,0,2,1,1,3,-2,2,1966,Mexico,False
+13,Chile,3,0,1,2,2,5,-3,1,1966,Chile,False
+13,France,3,0,1,2,2,5,-3,1,1966,France,False
+15,Bulgaria,3,0,0,3,1,8,-7,0,1966,Bulgaria,False
+16,Switzerland,3,0,0,3,1,9,-8,0,1966,Switzerland,False
+1,Brazil,6,6,0,0,19,7,12,12,1970,Brazil,False
+2,Italy,6,3,2,1,10,8,2,8,1970,Italy,False
+3,West Germany,6,5,0,1,17,10,7,10,1970,Germany,False
+4,Uruguay,6,2,1,3,4,5,-1,5,1970,Uruguay,False
+5,Soviet Union,4,2,1,1,6,2,4,5,1970,Russia,False
+6,Mexico,4,2,1,1,6,4,2,5,1970,Mexico,True
+7,Peru,4,2,0,2,9,9,0,4,1970,Peru,False
+8,England,4,2,0,2,4,4,0,4,1970,England,False
+9,Sweden,3,1,1,1,2,2,0,3,1970,Sweden,False
+10,Belgium,3,1,0,2,4,5,-1,2,1970,Belgium,False
+10,Romania,3,1,0,2,4,5,-1,2,1970,Romania,False
+12,Israel,3,0,2,1,1,3,-2,2,1970,Israel,False
+13,Bulgaria,3,0,1,2,5,9,-4,1,1970,Bulgaria,False
+14,Morocco,3,0,1,2,2,6,-4,1,1970,Morocco,False
+15,Czechoslovakia,3,0,0,3,2,7,-5,0,1970,Czech Republic,False
+16,El Salvador,3,0,0,3,0,9,-9,0,1970,El Salvador,False
+1,West Germany,7,6,0,1,13,4,9,12,1974,Germany,True
+2,Netherlands,7,5,1,1,15,3,12,11,1974,Netherlands,False
+3,Poland,7,6,0,1,16,5,11,12,1974,Poland,False
+4,Brazil,7,3,2,2,6,4,2,8,1974,Brazil,False
+5,Sweden,6,2,2,2,7,6,1,6,1974,Sweden,False
+6,East Germany,6,2,2,2,5,5,0,6,1974,East Germany,False
+7,Yugoslavia,6,1,2,3,12,7,5,4,1974,Serbia,False
+8,Argentina,6,1,2,3,9,12,-3,4,1974,Argentina,False
+9,Scotland,3,1,2,0,3,1,2,4,1974,Scotland,False
+10,Italy,3,1,1,1,5,4,1,3,1974,Italy,False
+11,Chile,3,0,2,1,1,2,-1,2,1974,Chile,False
+12,Bulgaria,3,0,2,1,2,5,-3,2,1974,Bulgaria,False
+13,Uruguay,3,0,1,2,1,6,-5,1,1974,Uruguay,False
+14,Australia,3,0,1,2,0,5,-5,1,1974,Australia,False
+15,Haiti,3,0,0,3,2,14,-12,0,1974,Haiti,False
+16,Zaire,3,0,0,3,0,14,-14,0,1974,DR Congo,False
+1,Argentina,7,5,1,1,15,4,11,11,1978,Argentina,True
+2,Netherlands,7,3,2,2,15,10,5,8,1978,Netherlands,False
+3,Brazil,7,4,3,0,10,3,7,11,1978,Brazil,False
+4,Italy,7,4,1,2,9,6,3,9,1978,Italy,False
+5,Poland,6,3,1,2,6,6,0,7,1978,Poland,False
+6,West Germany,6,1,4,1,10,5,5,6,1978,Germany,False
+7,Austria,6,3,0,3,7,10,-3,6,1978,Austria,False
+8,Peru,6,2,1,3,7,12,-5,5,1978,Peru,False
+9,Tunisia,3,1,1,1,3,2,1,3,1978,Tunisia,False
+10,Spain,3,1,1,1,2,2,0,3,1978,Spain,False
+11,Scotland,3,1,1,1,5,6,-1,3,1978,Scotland,False
+12,France,3,1,0,2,5,5,0,2,1978,France,False
+13,Sweden,3,0,1,2,1,3,-2,1,1978,Sweden,False
+14,Iran,3,0,1,2,2,8,-6,1,1978,Iran,False
+15,Hungary,3,0,0,3,3,8,-5,0,1978,Hungary,False
+16,Mexico,3,0,0,3,2,12,-10,0,1978,Mexico,False
+1,Italy,7,4,3,0,12,6,6,11,1982,Italy,False
+2,West Germany,7,3,2,2,12,10,2,8,1982,Germany,False
+3,Poland,7,3,3,1,11,5,6,9,1982,Poland,False
+4,France,7,3,2,2,16,12,4,8,1982,France,False
+5,Brazil,5,4,0,1,15,6,9,8,1982,Brazil,False
+6,England,5,3,2,0,6,1,5,8,1982,England,False
+7,Soviet Union,5,2,2,1,7,4,3,6,1982,Russia,False
+8,Austria,5,2,1,2,5,4,1,5,1982,Austria,False
+9,Northern Ireland,5,1,3,1,5,7,-2,5,1982,Northern Ireland,False
+10,Belgium,5,2,1,2,3,5,-2,5,1982,Belgium,False
+11,Argentina,5,2,0,3,8,7,1,4,1982,Argentina,False
+12,Spain,5,1,2,2,4,5,-1,4,1982,Spain,True
+13,Algeria,3,2,0,1,5,5,0,4,1982,Algeria,False
+14,Hungary,3,1,1,1,12,6,6,3,1982,Hungary,False
+15,Scotland,3,1,1,1,8,8,0,3,1982,Scotland,False
+16,Yugoslavia,3,1,1,1,2,2,0,3,1982,Serbia,False
+17,Cameroon,3,0,3,0,1,1,0,3,1982,Cameroon,False
+18,Honduras,3,0,2,1,2,3,-1,2,1982,Honduras,False
+19,Czechoslovakia,3,0,2,1,2,4,-2,2,1982,Czech Republic,False
+20,Peru,3,0,2,1,2,6,-4,2,1982,Peru,False
+21,Kuwait,3,0,1,2,2,6,-4,1,1982,Kuwait,False
+22,Chile,3,0,0,3,3,8,-5,0,1982,Chile,False
+23,New Zealand,3,0,0,3,2,12,-10,0,1982,New Zealand,False
+24,El Salvador,3,0,0,3,1,13,-12,0,1982,El Salvador,False
+1,Argentina,7,6,1,0,14,5,9,13,1986,Argentina,False
+2,West Germany,7,3,2,2,8,7,1,8,1986,Germany,False
+3,France,7,4,2,1,12,6,6,10,1986,France,False
+4,Belgium,7,2,2,3,12,15,-3,6,1986,Belgium,False
+5,Brazil,5,4,1,0,10,1,9,9,1986,Brazil,False
+6,Mexico,5,3,2,0,6,2,4,8,1986,Mexico,True
+7,Spain,5,3,1,1,11,4,7,7,1986,Spain,False
+8,England,5,2,1,2,7,3,4,5,1986,England,False
+9,Denmark,4,3,0,1,10,6,4,6,1986,Denmark,False
+10,Soviet Union,4,2,1,1,12,5,7,5,1986,Russia,False
+11,Morocco,4,1,2,1,3,2,1,4,1986,Morocco,False
+12,Italy,4,1,2,1,5,6,-1,4,1986,Italy,False
+13,Paraguay,4,1,2,1,4,6,-2,4,1986,Paraguay,False
+14,Poland,4,1,1,2,1,7,-6,3,1986,Poland,False
+15,Bulgaria,4,0,2,2,2,6,-4,2,1986,Bulgaria,False
+16,Uruguay,4,0,2,2,2,8,-6,2,1986,Uruguay,False
+17,Portugal,3,1,0,2,2,4,-2,2,1986,Portugal,False
+18,Hungary,3,1,0,2,2,9,-7,2,1986,Hungary,False
+19,Scotland,3,0,1,2,1,3,-2,1,1986,Scotland,False
+20,South Korea,3,0,1,2,4,7,-3,1,1986,South Korea,False
+21,Northern Ireland,3,0,1,2,2,6,-4,1,1986,Northern Ireland,False
+22,Algeria,3,0,1,2,1,5,-4,1,1986,Algeria,False
+23,Iraq,3,0,0,3,1,4,-3,0,1986,Iraq,False
+24,Canada,3,0,0,3,0,5,-5,0,1986,Canada,False
+1,West Germany,7,5,2,0,15,5,10,12,1990,Germany,False
+2,Argentina,7,2,3,2,5,4,1,7,1990,Argentina,False
+3,Italy,7,6,1,0,10,2,8,13,1990,Italy,True
+4,England,7,3,3,1,8,6,2,9,1990,England,False
+5,Yugoslavia,5,3,1,1,8,6,2,7,1990,Serbia,False
+6,Czechoslovakia,5,3,0,2,10,5,5,6,1990,Czech Republic,False
+7,Cameroon,5,3,0,2,7,9,-2,6,1990,Cameroon,False
+8,Republic of Ireland,5,0,4,1,2,3,-1,4,1990,Republic of Ireland,False
+9,Brazil,4,3,0,1,4,2,2,6,1990,Brazil,False
+10,Spain,4,2,1,1,6,4,2,5,1990,Spain,False
+11,Belgium,4,2,0,2,6,4,2,4,1990,Belgium,False
+12,Romania,4,1,2,1,4,3,1,4,1990,Romania,False
+13,Costa Rica,4,2,0,2,4,6,-2,4,1990,Costa Rica,False
+14,Colombia,4,1,1,2,4,4,0,3,1990,Colombia,False
+15,Netherlands,4,0,3,1,3,4,-1,3,1990,Netherlands,False
+16,Uruguay,4,1,1,2,2,5,-3,3,1990,Uruguay,False
+17,Soviet Union,3,1,0,2,4,4,0,2,1990,Russia,False
+18,Austria,3,1,0,2,2,3,-1,2,1990,Austria,False
+18,Scotland,3,1,0,2,2,3,-1,2,1990,Scotland,False
+20,Egypt,3,0,2,1,1,2,-1,2,1990,Egypt,False
+21,Sweden,3,0,0,3,3,6,-3,0,1990,Sweden,False
+22,South Korea,3,0,0,3,1,6,-5,0,1990,South Korea,False
+23,United States,3,0,0,3,2,8,-6,0,1990,United States,False
+24,United Arab Emirates,3,0,0,3,2,11,-9,0,1990,United Arab Emirates,False
+1,Brazil,7,5,2,0,11,3,8,17,1994,Brazil,False
+2,Italy,7,4,2,1,8,5,3,14,1994,Italy,False
+3,Sweden,7,3,3,1,15,8,7,12,1994,Sweden,False
+4,Bulgaria,7,3,1,3,10,11,-1,10,1994,Bulgaria,False
+5,Germany,5,3,1,1,9,7,2,10,1994,Germany,False
+6,Romania,5,3,1,1,10,9,1,10,1994,Romania,False
+7,Netherlands,5,3,0,2,8,6,2,9,1994,Netherlands,False
+8,Spain,5,2,2,1,10,6,4,8,1994,Spain,False
+9,Nigeria,4,2,0,2,7,4,3,6,1994,Nigeria,False
+10,Argentina,4,2,0,2,8,6,2,6,1994,Argentina,False
+11,Belgium,4,2,0,2,4,4,0,6,1994,Belgium,False
+12,Saudi Arabia,4,2,0,2,5,6,-1,6,1994,Saudi Arabia,False
+13,Mexico,4,1,2,1,4,4,0,5,1994,Mexico,False
+14,United States,4,1,1,2,3,4,-1,4,1994,United States,True
+15,Switzerland,4,1,1,2,5,7,-2,4,1994,Switzerland,False
+16,Republic of Ireland,4,1,1,2,2,4,-2,4,1994,Republic of Ireland,False
+17,Norway,3,1,1,1,1,1,0,4,1994,Norway,False
+18,Russia,3,1,0,2,7,6,1,3,1994,Russia,False
+19,Colombia,3,1,0,2,4,5,-1,3,1994,Colombia,False
+20,South Korea,3,0,2,1,4,5,-1,2,1994,South Korea,False
+21,Bolivia,3,0,1,2,1,4,-3,1,1994,Bolivia,False
+22,Cameroon,3,0,1,2,3,11,-8,1,1994,Cameroon,False
+23,Morocco,3,0,0,3,2,5,-3,0,1994,Morocco,False
+24,Greece,3,0,0,3,0,10,-10,0,1994,Greece,False
+1,France,7,6,1,0,15,2,13,19,1998,France,True
+2,Brazil,7,4,1,2,14,10,4,13,1998,Brazil,False
+3,Croatia,7,5,0,2,11,5,6,15,1998,Croatia,False
+4,Netherlands,7,3,3,1,13,7,6,12,1998,Netherlands,False
+5,Italy,5,3,2,0,8,3,5,11,1998,Italy,False
+6,Argentina,5,3,1,1,10,4,6,10,1998,Argentina,False
+7,Germany,5,3,1,1,8,6,2,10,1998,Germany,False
+8,Denmark,5,2,1,2,9,7,2,7,1998,Denmark,False
+9,England,4,2,1,1,7,4,3,7,1998,England,False
+10,FR Yugoslavia,4,2,1,1,5,4,1,7,1998,Serbia,False
+11,Romania,4,2,1,1,4,3,1,7,1998,Romania,False
+12,Nigeria,4,2,0,2,6,9,-3,6,1998,Nigeria,False
+13,Mexico,4,1,2,1,8,7,1,5,1998,Mexico,False
+14,Paraguay,4,1,2,1,3,2,1,5,1998,Paraguay,False
+15,Norway,4,1,2,1,5,5,0,5,1998,Norway,False
+16,Chile,4,0,3,1,5,8,-3,3,1998,Chile,False
+17,Spain,3,1,1,1,8,4,4,4,1998,Spain,False
+18,Morocco,3,1,1,1,5,5,0,4,1998,Morocco,False
+19,Belgium,3,0,3,0,3,3,0,3,1998,Belgium,False
+20,Iran,3,1,0,2,2,4,-2,3,1998,Iran,False
+21,Colombia,3,1,0,2,1,3,-2,3,1998,Colombia,False
+22,Jamaica,3,1,0,2,3,9,-6,3,1998,Jamaica,False
+23,Austria,3,0,2,1,3,4,-1,2,1998,Austria,False
+24,South Africa,3,0,2,1,3,6,-3,2,1998,South Africa,False
+25,Cameroon,3,0,2,1,2,5,-3,2,1998,Cameroon,False
+26,Tunisia,3,0,1,2,1,4,-3,1,1998,Tunisia,False
+27,Scotland,3,0,1,2,2,6,-4,1,1998,Scotland,False
+28,Saudi Arabia,3,0,1,2,2,7,-5,1,1998,Saudi Arabia,False
+29,Bulgaria,3,0,1,2,1,7,-6,1,1998,Bulgaria,False
+30,South Korea,3,0,1,2,2,9,-7,1,1998,South Korea,False
+31,Japan,3,0,0,3,1,4,-3,0,1998,Japan,False
+32,United States,3,0,0,3,1,5,-4,0,1998,United States,False
+1,Brazil,7,7,0,0,18,4,14,21,2002,Brazil,False
+2,Germany,7,5,1,1,14,3,11,16,2002,Germany,False
+3,Turkey,7,4,1,2,10,6,4,13,2002,Turkey,False
+4,South Korea,7,3,2,2,8,6,2,11,2002,South Korea,True
+5,Spain,5,3,2,0,10,5,5,11,2002,Spain,False
+6,England,5,2,2,1,6,3,3,8,2002,England,False
+7,Senegal,5,2,2,1,7,6,1,8,2002,Senegal,False
+8,United States,5,2,1,2,7,7,0,7,2002,United States,False
+9,Japan,4,2,1,1,5,3,2,7,2002,Japan,True
+10,Denmark,4,2,1,1,5,5,0,7,2002,Denmark,False
+11,Mexico,4,2,1,1,4,4,0,7,2002,Mexico,False
+12,Republic of Ireland,4,1,3,0,6,3,3,6,2002,Republic of Ireland,False
+13,Sweden,4,1,2,1,5,5,0,5,2002,Sweden,False
+14,Belgium,4,1,2,1,6,7,-1,5,2002,Belgium,False
+15,Italy,4,1,1,2,5,5,0,4,2002,Italy,False
+16,Paraguay,4,1,1,2,6,7,-1,4,2002,Paraguay,False
+17,South Africa,3,1,1,1,5,5,0,4,2002,South Africa,False
+18,Argentina,3,1,1,1,2,2,0,4,2002,Argentina,False
+19,Costa Rica,3,1,1,1,5,6,-1,4,2002,Costa Rica,False
+20,Cameroon,3,1,1,1,2,3,-1,4,2002,Cameroon,False
+21,Portugal,3,1,0,2,6,4,2,3,2002,Portugal,False
+22,Russia,3,1,0,2,4,4,0,3,2002,Russia,False
+23,Croatia,3,1,0,2,2,3,-1,3,2002,Croatia,False
+24,Ecuador,3,1,0,2,2,4,-2,3,2002,Ecuador,False
+25,Poland,3,1,0,2,3,7,-4,3,2002,Poland,False
+26,Uruguay,3,0,2,1,4,5,-1,2,2002,Uruguay,False
+27,Nigeria,3,0,1,2,1,3,-2,1,2002,Nigeria,False
+28,France,3,0,1,2,0,3,-3,1,2002,France,False
+29,Tunisia,3,0,1,2,1,5,-4,1,2002,Tunisia,False
+30,Slovenia,3,0,0,3,2,7,-5,0,2002,Slovenia,False
+31,China PR,3,0,0,3,0,9,-9,0,2002,China PR,False
+32,Saudi Arabia,3,0,0,3,0,12,-12,0,2002,Saudi Arabia,False
+1,Italy,7,5,2,0,12,2,10,17,2006,Italy,False
+2,France,7,4,3,0,9,3,6,15,2006,France,False
+3,Germany,7,5,1,1,14,6,8,16,2006,Germany,True
+4,Portugal,7,4,1,2,7,5,2,13,2006,Portugal,False
+5,Brazil,5,4,0,1,10,2,8,12,2006,Brazil,False
+6,Argentina,5,3,2,0,11,3,8,11,2006,Argentina,False
+7,England,5,3,2,0,6,2,4,11,2006,England,False
+8,Ukraine,5,2,1,2,5,7,-2,7,2006,Ukraine,False
+9,Spain,4,3,0,1,9,4,5,9,2006,Spain,False
+10,Switzerland,4,2,2,0,4,0,4,8,2006,Switzerland,False
+11,Netherlands,4,2,1,1,3,2,1,7,2006,Netherlands,False
+12,Ecuador,4,2,0,2,5,4,1,6,2006,Ecuador,False
+13,Ghana,4,2,0,2,4,6,-2,6,2006,Ghana,False
+14,Sweden,4,1,2,1,3,4,-1,5,2006,Sweden,False
+15,Mexico,4,1,1,2,5,5,0,4,2006,Mexico,False
+16,Australia,4,1,1,2,5,6,-1,4,2006,Australia,False
+17,South Korea,3,1,1,1,3,4,-1,4,2006,South Korea,False
+18,Paraguay,3,1,0,2,2,2,0,3,2006,Paraguay,False
+19,Ivory Coast,3,1,0,2,5,6,-1,3,2006,Ivory Coast,False
+20,Czech Republic,3,1,0,2,3,4,-1,3,2006,Czech Republic,False
+21,Poland,3,1,0,2,2,4,-2,3,2006,Poland,False
+22,Croatia,3,0,2,1,2,3,-1,2,2006,Croatia,False
+23,Angola,3,0,2,1,1,2,-1,2,2006,Angola,False
+24,Tunisia,3,0,1,2,3,6,-3,1,2006,Tunisia,False
+25,Iran,3,0,1,2,2,6,-4,1,2006,Iran,False
+25,United States,3,0,1,2,2,6,-4,1,2006,United States,False
+27,Trinidad and Tobago,3,0,1,2,0,4,-4,1,2006,Trinidad and Tobago,False
+28,Japan,3,0,1,2,2,7,-5,1,2006,Japan,False
+28,Saudi Arabia,3,0,1,2,2,7,-5,1,2006,Saudi Arabia,False
+30,Togo,3,0,0,3,1,6,-5,0,2006,Togo,False
+31,Costa Rica,3,0,0,3,3,9,-6,0,2006,Costa Rica,False
+32,Serbia and Montenegro,3,0,0,3,2,10,-8,0,2006,Serbia,False
+1,Spain,7,6,0,1,8,2,6,18,2010,Spain,False
+2,Netherlands,7,6,0,1,12,6,6,18,2010,Netherlands,False
+3,Germany,7,5,0,2,16,5,11,15,2010,Germany,False
+4,Uruguay,7,3,2,2,11,8,3,11,2010,Uruguay,False
+5,Argentina,5,4,0,1,10,6,4,12,2010,Argentina,False
+6,Brazil,5,3,1,1,9,4,5,10,2010,Brazil,False
+7,Ghana,5,2,2,1,5,4,1,8,2010,Ghana,False
+8,Paraguay,5,1,3,1,3,2,1,6,2010,Paraguay,False
+9,Japan,4,2,1,1,4,2,2,7,2010,Japan,False
+10,Chile,4,2,0,2,3,5,-2,6,2010,Chile,False
+11,Portugal,4,1,2,1,7,1,6,5,2010,Portugal,False
+12,United States,4,1,2,1,5,5,0,5,2010,United States,False
+13,England,4,1,2,1,3,5,-2,5,2010,England,False
+14,Mexico,4,1,1,2,4,5,-1,4,2010,Mexico,False
+15,South Korea,4,1,1,2,6,8,-2,4,2010,South Korea,False
+16,Slovakia,4,1,1,2,5,7,-2,4,2010,Slovakia,False
+17,Ivory Coast,3,1,1,1,4,3,1,4,2010,Ivory Coast,False
+18,Slovenia,3,1,1,1,3,3,0,4,2010,Slovenia,False
+19,Switzerland,3,1,1,1,1,1,0,4,2010,Switzerland,False
+20,South Africa,3,1,1,1,3,5,-2,4,2010,South Africa,True
+21,Australia,3,1,1,1,3,6,-3,4,2010,Australia,False
+22,New Zealand,3,0,3,0,2,2,0,3,2010,New Zealand,False
+23,Serbia,3,1,0,2,2,3,-1,3,2010,Serbia,False
+24,Denmark,3,1,0,2,3,6,-3,3,2010,Denmark,False
+25,Greece,3,1,0,2,2,5,-3,3,2010,Greece,False
+26,Italy,3,0,2,1,4,5,-1,2,2010,Italy,False
+27,Nigeria,3,0,1,2,3,5,-2,1,2010,Nigeria,False
+28,Algeria,3,0,1,2,0,2,-2,1,2010,Algeria,False
+29,France,3,0,1,2,1,4,-3,1,2010,France,False
+30,Honduras,3,0,1,2,0,3,-3,1,2010,Honduras,False
+31,Cameroon,3,0,0,3,2,5,-3,0,2010,Cameroon,False
+32,North Korea,3,0,0,3,1,12,-11,0,2010,North Korea,False
+1,Germany,7,6,1,0,18,4,14,19,2014,Germany,False
+2,Argentina,7,5,1,1,8,4,4,16,2014,Argentina,False
+3,Netherlands,7,5,2,0,15,4,11,17,2014,Netherlands,False
+4,Brazil,7,3,2,2,11,14,-3,11,2014,Brazil,True
+5,Colombia,5,4,0,1,12,4,8,12,2014,Colombia,False
+6,Belgium,5,4,0,1,6,3,3,12,2014,Belgium,False
+7,France,5,3,1,1,10,3,7,10,2014,France,False
+8,Costa Rica,5,2,3,0,5,2,3,9,2014,Costa Rica,False
+9,Chile,4,2,1,1,6,4,2,7,2014,Chile,False
+10,Mexico,4,2,1,1,5,3,2,7,2014,Mexico,False
+11,Switzerland,4,2,0,2,7,7,0,6,2014,Switzerland,False
+12,Uruguay,4,2,0,2,4,6,-2,6,2014,Uruguay,False
+13,Greece,4,1,2,1,3,5,-2,5,2014,Greece,False
+14,Algeria,4,1,1,2,7,7,0,4,2014,Algeria,False
+15,United States,4,1,1,2,5,6,-1,4,2014,United States,False
+16,Nigeria,4,1,1,2,3,5,-2,4,2014,Nigeria,False
+17,Ecuador,3,1,1,1,3,3,0,4,2014,Ecuador,False
+18,Portugal,3,1,1,1,4,7,-3,4,2014,Portugal,False
+19,Croatia,3,1,0,2,6,6,0,3,2014,Croatia,False
+20,Bosnia and Herzegovina,3,1,0,2,4,4,0,3,2014,Bosnia and Herzegovina,False
+21,Ivory Coast,3,1,0,2,4,5,-1,3,2014,Ivory Coast,False
+22,Italy,3,1,0,2,2,3,-1,3,2014,Italy,False
+23,Spain,3,1,0,2,4,7,-3,3,2014,Spain,False
+24,Russia,3,0,2,1,2,3,-1,2,2014,Russia,False
+25,Ghana,3,0,1,2,4,6,-2,1,2014,Ghana,False
+26,England,3,0,1,2,2,4,-2,1,2014,England,False
+27,South Korea,3,0,1,2,3,6,-3,1,2014,South Korea,False
+28,Iran,3,0,1,2,1,4,-3,1,2014,Iran,False
+29,Japan,3,0,1,2,2,6,-4,1,2014,Japan,False
+30,Australia,3,0,0,3,3,9,-6,0,2014,Australia,False
+31,Honduras,3,0,0,3,1,8,-7,0,2014,Honduras,False
+32,Cameroon,3,0,0,3,1,9,-8,0,2014,Cameroon,False
+1,France,7,6,1,0,14,6,8,19,2018,France,False
+2,Croatia,7,4,2,1,14,9,5,14,2018,Croatia,False
+3,Belgium,7,6,0,1,16,6,10,18,2018,Belgium,False
+4,England,7,3,1,3,12,8,4,10,2018,England,False
+5,Uruguay,5,4,0,1,7,3,4,12,2018,Uruguay,False
+6,Brazil,5,3,1,1,8,3,5,10,2018,Brazil,False
+7,Sweden,5,3,0,2,6,4,2,9,2018,Sweden,False
+8,Russia,5,2,2,1,11,7,4,8,2018,Russia,True
+9,Colombia,4,2,1,1,6,3,3,7,2018,Colombia,False
+10,Mexico,4,2,0,2,3,6,-3,6,2018,Mexico,False
+11,Denmark,4,1,3,0,3,2,1,6,2018,Denmark,False
+12,Spain,4,1,3,0,7,6,1,6,2018,Spain,False
+13,Portugal,4,1,2,1,6,6,0,5,2018,Portugal,False
+14,Switzerland,4,1,2,1,5,5,0,5,2018,Switzerland,False
+15,Argentina,4,1,1,2,6,9,-3,4,2018,Argentina,False
+16,Japan,4,1,1,2,6,7,-1,4,2018,Japan,False
+17,Iran,3,1,1,1,2,2,0,4,2018,Iran,False
+18,Senegal,3,1,1,1,4,4,0,4,2018,Senegal,False
+19,Germany,3,1,0,2,2,4,-2,3,2018,Germany,False
+20,Nigeria,3,1,0,2,3,4,-1,3,2018,Nigeria,False
+21,Peru,3,1,0,2,2,2,0,3,2018,Peru,False
+22,Poland,3,1,0,2,2,5,-3,3,2018,Poland,False
+23,Saudi Arabia,3,1,0,2,2,7,-5,3,2018,Saudi Arabia,False
+24,Serbia,3,1,0,2,2,4,-2,3,2018,Serbia,False
+25,South Korea,3,1,0,2,3,3,0,3,2018,South Korea,False
+26,Tunisia,3,1,0,2,5,8,-3,3,2018,Tunisia,False
+27,Australia,3,0,1,2,2,5,-3,1,2018,Australia,False
+28,Costa Rica,3,0,1,2,2,5,-3,1,2018,Costa Rica,False
+29,Iceland,3,0,1,2,2,5,-3,1,2018,Iceland,False
+30,Morocco,3,0,1,2,2,4,-2,1,2018,Morocco,False
+31,Egypt,3,0,0,3,2,6,-4,0,2018,Egypt,False
+32,Panama,3,0,0,3,2,11,-9,0,2018,Panama,False
+1,Argentina,7,6,0,1,15,8,7,18,2022,Argentina,False
+2,France,7,5,0,2,16,8,8,15,2022,France,False
+3,Croatia,7,4,2,1,8,7,1,14,2022,Croatia,False
+4,Morocco,7,4,1,2,6,5,1,13,2022,Morocco,False
+5,England,5,3,1,1,13,4,9,10,2022,England,False
+6,Netherlands,5,3,1,1,10,4,6,10,2022,Netherlands,False
+7,Portugal,5,3,0,2,12,6,6,9,2022,Portugal,False
+8,Brazil,5,3,0,2,8,3,5,9,2022,Brazil,False
+9,Japan,4,2,0,2,5,4,1,6,2022,Japan,False
+10,Senegal,4,2,0,2,5,7,-2,6,2022,Senegal,False
+11,Australia,4,2,0,2,4,6,-2,6,2022,Australia,False
+12,Switzerland,4,2,0,2,5,9,-4,6,2022,Switzerland,False
+13,USA,4,1,2,1,3,4,-1,5,2022,United States,False
+14,Spain,4,1,1,2,9,3,6,4,2022,Spain,False
+15,Poland,4,1,1,2,3,5,-2,4,2022,Poland,False
+16,South Korea,4,1,1,2,5,8,-3,4,2022,South Korea,False
+17,Germany,3,1,1,1,6,5,1,4,2022,Germany,False
+18,Ecuador,3,1,1,1,4,3,1,4,2022,Ecuador,False
+19,Cameroon,3,1,1,1,4,4,0,4,2022,Cameroon,False
+20,Uruguay,3,1,1,1,2,2,0,4,2022,Uruguay,False
+21,Tunisia,3,1,1,1,1,1,0,4,2022,Tunisia,False
+22,Mexico,3,1,1,1,2,3,-1,4,2022,Mexico,False
+23,Belgium,3,1,1,1,1,2,-1,4,2022,Belgium,False
+24,Ghana,3,1,0,2,5,7,-2,3,2022,Ghana,False
+25,Saudi Arabia,3,1,0,2,3,5,-2,3,2022,Saudi Arabia,False
+26,Iran,3,1,0,2,4,7,-3,3,2022,Iran,False
+27,Costa Rica,3,1,0,2,3,11,-8,3,2022,Costa Rica,False
+28,Denmark,3,0,1,2,1,3,-2,1,2022,Denmark,False
+29,Serbia,3,0,1,2,5,8,-3,1,2022,Serbia,False
+30,Wales,3,0,1,2,1,6,-5,1,2022,Wales,False
+31,Canada,3,0,0,3,2,7,-5,0,2022,Canada,False
+32,Qatar,3,0,0,3,1,7,-6,0,2022,Qatar,True
